@@ -1,1 +1,6 @@
-dd
+{"results": [
+{"code": "ca-app-pub-5435322511357512/bb","type": "ban"},
+{"code": "ca-app-pub-5435322511357512/ii","type": "inter"},
+{"code": "ca-app-pub-5435322511357512/rr","type": "rew"},
+{"code": "0","type": "scenario"}
+]}
